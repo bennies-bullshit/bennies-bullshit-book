@@ -6,3 +6,4 @@ kapitel-2-wasserfalle.txt
 kapitel-4-zeit.txt
 kapitel-3-lugen.txt
 kapitel-5-der-wind.txt
+kapitel-6-alternative-fakten.txt
