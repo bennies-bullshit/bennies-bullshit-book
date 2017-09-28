@@ -1,5 +1,4 @@
 kapitel-ubersicht.txt
-About.txt
 kapitel-1-jfk.txt
 kapitel-2-wasserfalle.txt
 kapitel-4-zeit.txt
@@ -9,3 +8,6 @@ kapitel-6-alternative-fakten.txt
 der-mann-der-reifen-hasste.txt
 kapitel-8-das-szenario-teil-1.txt
 oktopussballchen.txt
+zu-zweit-unter-affen.txt
+bruste.txt
+ausreden-fur-jede-gelegenheit.txt
