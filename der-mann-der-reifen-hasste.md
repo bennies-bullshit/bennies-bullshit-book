@@ -2,7 +2,7 @@
 
 9\. Februar, ein nebliger Dienstag Morgen. Es ist nass und kalt und weit davon entfernt ein schöner Tag zu sein. Der Wecker ertönt - seit einigen Wochen ist er kaputt und statt zu klingeln stößt er Ohrenbetäubenden Lärm aus.
 
-Wolfgang ist das mittlerweile gewohnt und so steht er auch an diesem Morgen gut gelaunt auf. Er hat eine **feste Morgenroutine** welche einghalten werden muss. 
+Wolfgang ist das mittlerweile gewohnt und so steht er auch an diesem Morgen gut gelaunt auf. Er hat eine **feste Morgenroutine** welche einghalten werden muss.
 
 1. Aufstehen
 2. Zwei Kniebeugen machen
@@ -17,7 +17,6 @@ _"Gottverdammt! Du hast mich erschreckt!_ schreit Wolli den Briefträger an _"Wi
 Ein leicht süßlich-fischiger Geruch liegt in der Luft. Es ist Zeit für die Raubtierfütterung.
 _"**GAAAARFIIIIEEEEELD!!**"_ Der Katerich kommt nicht. Sonst kommt er immer wenn man ihn nur lieb genug bittet. Lautes geschepper und das austreten von Blut aus den Wänden deutete darauf hin dass der Herr Flauschekatze weg ist.
 
-Heinz _(Wolfgangs Spitzname aus seiner Jugend)_ war am Boden zerstört doch er musste zur Arbeit in der **Reifenfabrik**. 
+Heinz _(Wolfgangs Spitzname aus seiner Jugend)_ war am Boden zerstört doch er musste zur Arbeit in der **Reifenfabrik**.
 
 **Er hasste diesen Job und die ganzen verdammten Reifen.**
-
