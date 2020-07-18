@@ -20,6 +20,10 @@
 - [Kapitel 12: Das Szenario Teil 2](das-szeario-teil-2.md)
 - [Kapitel 13: Das Zeugnis](das-zeugnis.md)
 
+## Etwas beitragen
+
+Jedes Kapitel hat seine eigene Datei z.B. `KAPITELNAME.md`. Erstelle also einfach eine Datei, füge deinen Text hinzu und "commite" deine Änderungen. Geschriebener Text wird mit Markdown formatiert (siehe (Markdown Cheatsheet)[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]).
+
 ## Lizenz
 
 Bennies Bullshit Book darf nicht weiterverbreitet werden. Wenn hier jemand die dicke Kohle damit macht, dann sind wir das!
