@@ -3,4 +3,3 @@
 Wit hatten keine Zeit dieses Kapitel zu schreiben, weil wir damit beschäftigt waren
 
 Platz für Notizen:
-

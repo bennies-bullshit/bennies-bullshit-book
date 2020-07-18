@@ -18,16 +18,16 @@ Seit langer Zeit stelle ich mir diese eine Frage: Was passiert mit einem Hund, d
 
 Arbeitszeit: ca. 20 Min. / Schwierigkeitsgrad: simpel / Kalorien p. P.: keine Angabe
 
-Die Spätzle jeder für sich wie gewohnt zubereiten (meinetwegen auch kaufen und nach Anleitung zubereiten). 
+Die Spätzle jeder für sich wie gewohnt zubereiten (meinetwegen auch kaufen und nach Anleitung zubereiten).
 
-3 Zwiebeln in Würfel schneiden, glasig andünsten in einem Topf. Dann die 350 ml Sahne dazugeben und die Prise klare Brühe bzw. Fondor hineinrühren. Abschmecken. 
+3 Zwiebeln in Würfel schneiden, glasig andünsten in einem Topf. Dann die 350 ml Sahne dazugeben und die Prise klare Brühe bzw. Fondor hineinrühren. Abschmecken.
 
-Soll kräftig aber nicht salzig schmecken. Die Ecke Sahneschmelzkäse hineinrühren. Das ganze kurz aufkochen, dabei bleiben, kocht leicht ein. Den Edamer reiben. 
+Soll kräftig aber nicht salzig schmecken. Die Ecke Sahneschmelzkäse hineinrühren. Das ganze kurz aufkochen, dabei bleiben, kocht leicht ein. Den Edamer reiben.
 
-Dann eine kleine Auflaufform fetten (Durchmesser ca. 20 cm, Tiefe ca. 7 cm). 
-Schichtweise Spätzle, Käse und Sauce in die Form geben. Insgesamt 3 mal. Es endet zuletzt mit der Sauce. 
+Dann eine kleine Auflaufform fetten (Durchmesser ca. 20 cm, Tiefe ca. 7 cm).
+Schichtweise Spätzle, Käse und Sauce in die Form geben. Insgesamt 3 mal. Es endet zuletzt mit der Sauce.
 
-Inzwischen die übrige Zwiebel in Ringe schneiden und leicht anbräunen. Semmelbrösel in geschmolzener Butter leicht anbräunen. Erst die Zwiebeln auf die Käsespätzle geben, oben drauf die angeschmälzten Semmelbrösel. 
+Inzwischen die übrige Zwiebel in Ringe schneiden und leicht anbräunen. Semmelbrösel in geschmolzener Butter leicht anbräunen. Erst die Zwiebeln auf die Käsespätzle geben, oben drauf die angeschmälzten Semmelbrösel.
 
 Das Ganze für ca. 20 Minuten bei 200 Grad Umluft in den Backofen. Dazu passen Blattsalate aller Art und/oder Tomatensalat.
 

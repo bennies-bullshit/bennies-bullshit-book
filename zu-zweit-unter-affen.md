@@ -1,8 +1,7 @@
-# Kapitel 9: Zu zweit unter Affen
-
-**_Work in progress..._**
+# WIP: Zu zweit unter Affen
 
 **Story Ablauf / Ideensammlung**
+
 - einleitung (wer, wo, warum)
 - Liebespaar vorstellen
 - Plan erläutern
@@ -10,9 +9,10 @@
 - Amok
 - ...
 
--------------------------
+---
 
 ## Der Plan
+
 Meine Frau Kabibe und ich waren seit drei Monaten frisch verheiratet. Die Ehe und das zusammeleben war schon längst normal und so lebten wir vor uns hin, jeder in seinem Trott. Es führten oft, selbst bei den lächerlichsten Kleinigkeiten, zum Streit zwischen uns.
 
 Geschirr in der Maschine vergessen: Autoreifen aufgestochen.
