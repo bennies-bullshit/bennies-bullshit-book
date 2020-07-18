@@ -1,0 +1,15 @@
+# Bennies Bullshit Book
+
+- [Kapitel 1: JFK](book/01-jfk.md)
+- [Kapitel 2: Wasserfälle](book/02-wasserfalle.md)
+- [Kapitel 3: Lügen](book/03-luegen.md)
+- [Kapitel 4: Zeit](book/04-zeit.md)
+- [Kapitel 5: Der Wind](book/05-der-wind.md)
+- [Kapitel 6: Alternative Fakten](book/06-alternative-fakten.md)
+- [Kapitel 7: Der Mann der Reifen hasste](book/07-der-mann-der-reifen-hasste.md)
+- [Kapitel 8: Das Szenario Teil 1](book/08-das-szenario-teil-1.md)
+- [Kapitel 9: Oktopussbällchen](book/09-oktopussbaellchen.md)
+- [Kapitel 10: Brüste](book/10-brueste.md)
+- [Kapitel 11: Ausreden für jede Gelegenheit](book/11-ausreden-fuer-jede-gelegenheit.md)
+- [Kapitel 12: Das Szenario Teil 2](book/12-das-szenario-teil-2.md)
+- [Kapitel 13: Das Zeugnis](book/13-das-zeugnis.md)
