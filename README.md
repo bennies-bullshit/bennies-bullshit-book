@@ -10,7 +10,7 @@
 
 ## Etwas beitragen
 
-Jedes Kapitel hat seine eigene Datei z.B. `KAPITELNAME.md`. Erstelle also einfach eine Datei, füge deinen Text hinzu und "commite" deine Änderungen. Geschriebener Text wird mit Markdown formatiert (siehe [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)).
+Jedes Kapitel hat seine eigene Datei z.B. `books/KAPITELNAME.md`. Erstelle also einfach eine Datei im `books` Ordner, füge deinen Text hinzu, verlinke sie im Inhaltsverzeichnis unter `./bennies-bullshit-book.md` und "commite" deine Änderungen. Geschriebener Text wird mit Markdown formatiert (siehe [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)).
 
 ## Lizenz
 
