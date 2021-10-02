@@ -13,3 +13,4 @@
 - [Kapitel 11: Ausreden für jede Gelegenheit](book/11-ausreden-fuer-jede-gelegenheit.md)
 - [Kapitel 12: Das Szenario Teil 2](book/12-das-szenario-teil-2.md)
 - [Kapitel 13: Das Zeugnis](book/13-das-zeugnis.md)
+- [Kapitel 14: Absturz in die Abstinenz](book/14-absturz-in-die-abstinenz.md)
