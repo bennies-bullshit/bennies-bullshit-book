@@ -14,3 +14,4 @@
 - [Kapitel 12: Das Szenario Teil 2](book/12-das-szenario-teil-2.md)
 - [Kapitel 13: Das Zeugnis](book/13-das-zeugnis.md)
 - [Kapitel 14: Absturz in die Abstinenz](book/14-absturz-in-die-abstinenz.md)
+- [Kapitel 15: 69 Synonyme fürs »Saufen«](book/15-synonyme-fuers-saufen.md)
