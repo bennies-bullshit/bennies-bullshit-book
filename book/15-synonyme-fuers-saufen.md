@@ -1,6 +1,12 @@
 # Kapitel 15: 69 Synonyme fürs »Saufen«
 
-Bereits 1743 schrieb der erste Schrotthändler Kanye Omari West in seiner Autobiografie über die schönste Nebensache der Welt: „[…] Wer bedarf sich adäquat den Hochofen anheizen zu wollen, der muss dies gut artikulieren können […]“  — Ein Visionär der Damaligen Epoche und seiner Zeit weit voraus.
+Bereits um 1743 schrieb, ein namenloser Schriftsteller und einer der ersten Schrotthändler Schottlands, in seiner Autobiografie über die schönste Nebensache der Welt.
+
+> „Wer bedarf sich adäquat den Hochofen anzuheizen, der vermag dies stets gut zu artikulieren.“ 
+> 
+> *— Namenloser Schottischer Schrotthändler ca. 1743*
+
+---
 
 1. Einen in die Rüstung Römern
 1. Einen Kanister in die Fleischhaube kippen
